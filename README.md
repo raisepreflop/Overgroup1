@@ -1,6 +1,6 @@
 # Over Group
 
-- Desarrollo de software Adeje, Canarias
+- Desarrollo de software
 - Grupo empresarial diversificado con presencia internacional y orientado al futuro de la tecnología.
 
 España, Colombia, Brasil, EEUU, y Dubai son las principales sedes de este grupo. 
